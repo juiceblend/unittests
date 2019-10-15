@@ -4,6 +4,7 @@ public class LinkedList {
 	private int size;
 	private Node head;
 	
+	// initialize a linkedlist
 	public LinkedList() {
 		this.size = 0;
 	}
